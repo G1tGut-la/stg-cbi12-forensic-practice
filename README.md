@@ -100,10 +100,16 @@ Unicamente se encuentra rgistrada la cuenta `spy.conspirator@nist.gov`
 
 ### 17.	¿Cuál es la dirección IP de la unidad de red compartida de la empresa?
 
-
+Se puden visualizar el acceso hacia algunos archivos alojados en `10.11.11.128`
 
 ### 18.	Enumere todos los archivos que se abrieron en la unidad de red de la empresa.
+
+![Search](/img/17/image.png)
+
 ### 19.	Encuentre en el PC rastros relacionados con los servicios en la nube (nombre del servicio, archivos de registro…).
+
+
+
 ### 20.	¿Qué archivos se eliminaron de Google Drive? (Sugerencia: busca un archivo de registro de transacciones de Google Drive).
 ### 21.	Identificar la información de la cuenta utilizada para sincronizar Google Drive.
 ### 22.	¿Qué software se utilizó para grabar el CD?
