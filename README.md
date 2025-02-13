@@ -43,7 +43,7 @@ Aunque el nombre real del usuario se puede ver en documentos oficiales de su emp
 
 ### 6.	¿Quién fue el último usuario en iniciar sesión en el equipo?
 
-Quedan registros en el reporte SAM de Autopsy que el ultimo usuario de logearse fue el *Administrador* el `Sun Nov 21 03:47:20 2010 Z`, el segundo ultimo (que no era usuario por defecto del sistema) fue *informant* el `Wed Mar 25 13:06:08 2015 Z`
+Quedan registros en el reporte SAM de Autopsy que el ultimo usuario de logearse fue *informant* el `Wed Mar 25 13:06:08 2015 Z`
 
 ### 7.	¿Cuándo fue la última fecha y hora de apagado del equipo?
 
