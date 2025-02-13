@@ -96,7 +96,7 @@ Unicamente se encuentra rgistrada la cuenta `spy.conspirator@nist.gov`
 
 ### 16.	¿Qué dispositivos de almacenamiento externo se conectaron al equipo?
 
-[Se pueden consultar la lista exportada aqui](/AtachDevice.md.md)
+[Se pueden consultar la lista exportada aqui](/AtachDevice.md)
 
 ### 17.	¿Cuál es la dirección IP de la unidad de red compartida de la empresa?
 
