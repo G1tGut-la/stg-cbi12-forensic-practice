@@ -77,10 +77,31 @@ Se puede visualizar en el historial extraido el uso de los navegadores:
 [Se pueden consultar la lista exportada aqui](/WebSeach.md)
 
 ### 13.	¿Qué búsquedas realizó el usuario a través de la barra de búsqueda del explorador de Windows?
+
+Segun los datos del registro de windows, el ultimo valor buscado fue la palabra `s e c r e t`
+
+![Search](/img/13/image.png)
+
 ### 14.	¿Qué aplicación utilizaba para el envío y la recepción de correos electrónicos?
+
+El programa utilizado por defecto para los correos encontrados fue `Microsoft Outlook`
+
+![Search](/img/14/image.png)
+
 ### 15.	¿Qué cuentas de correo se encontraban configuradas?
+
+Unicamente se encuentra rgistrada la cuenta `spy.conspirator@nist.gov`
+
+![Search](/img/15/image.png)
+
 ### 16.	¿Qué dispositivos de almacenamiento externo se conectaron al equipo?
+
+[Se pueden consultar la lista exportada aqui](/WebSeach.md)
+
 ### 17.	¿Cuál es la dirección IP de la unidad de red compartida de la empresa?
+
+
+
 ### 18.	Enumere todos los archivos que se abrieron en la unidad de red de la empresa.
 ### 19.	Encuentre en el PC rastros relacionados con los servicios en la nube (nombre del servicio, archivos de registro…).
 ### 20.	¿Qué archivos se eliminaron de Google Drive? (Sugerencia: busca un archivo de registro de transacciones de Google Drive).
