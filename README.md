@@ -108,17 +108,75 @@ Se puden visualizar el acceso hacia algunos archivos alojados en `10.11.11.128`
 
 ### 19.	Encuentre en el PC rastros relacionados con los servicios en la nube (nombre del servicio, archivos de registro…).
 
+Se encuentran los ejecutables de Google Drive y archivos de registro
 
+![Search](/img/19/CloudStg.png)
+
+![Search](/img/19/CloudTegFiles.png)
 
 ### 20.	¿Qué archivos se eliminaron de Google Drive? (Sugerencia: busca un archivo de registro de transacciones de Google Drive).
+
+Se borraron los propios archivos de configuracion y registro de Google Drive
+
+![Search](/img/20/CloudDelete.png)
+
+
 ### 21.	Identificar la información de la cuenta utilizada para sincronizar Google Drive.
+
+Se detecta en los archivo de registro el nombre del usuario `iaman.informant.personal@gmail.com`
+
 ### 22.	¿Qué software se utilizó para grabar el CD?
+
+No se detecta el programa de grabacion dentro de el resgistro de programas instalados. Se da a entender, que se utilizo el propio Windows Explorer para la transferencia de archivos a disco.
+
 ### 23.	¿Cuándo grabó el sospechoso el CD?
+
+Se detecta su fecha de creacion el:
+```
+Acquired Date: Thu Mar  5 16:19:48 2020
+System Date: Thu Mar  5 16:19:48 2020
+```
+
 ### 24.	Identifique todas las marcas de tiempo relacionadas con un archivo de renuncia (en formato DOCX) en el escritorio de Windows.
+
+![ResignationLetterTimestamp](/img/24/image.png)
+
 ### 25.	¿Cómo y cuándo imprimió el sospechoso un archivo de renuncia?
+
+No se pudo encontrar el dato de impresion del Resignation_Letter....docx
+
 ### 26.	¿Dónde se encuentran los archivos de la aplicación Sticky Note (notas)? Identifique las notas almacenadas.
+
+![Sticky Notes](/img/26/image.png)
+
+```
+Tomorrow...
+
+Everything will be OK...
+```
+
 ### 27.	¿Qué acciones se llevaron a cabo para complicar el análisis forense del equipo el día 25 de marzo de 2015?
+
+Se llevaron a cabo varias acciones de limpieza de evidencias, se borraron archivos, se ejecuto software de limpieza como Eraser y Ccleaner.
+
 ### 28.	Recupere los archivos borrados de los USB. ¿Hay algún archivo de interés?
+
+Existen varios archivos eliminados en el sistema de USBs
+
+![Deleted Files](/img/28/image.png)
+
+Ningun archivo en particular es de interes, sino mas bien, un conjunto de archivos que referencian un llamado `secret_project` el cual aparenta ser un conjunto de datos confidenciales de varias universidades y agencias federales de EEUU.
+
 ### 29.	¿Qué archivos se copiaron del PC a los USB?
+
+Los archivos relacionados al `secret_project`.
+
 ### 30.	Recupere los archivos ocultos del CD. ¿Hay algún archivo de interés?
+
+Igual que en los USBs, varios archivos relacionados al `secret_project`.
+
+![CD Files](/img/30/image.png)
+
 ### 31.	Examine la papelera de reciclaje del PC. ¿Hay algún archivo de interés?
+
+Unicamente se encuentran los archivos de la ruta `AppData\Local\Microsoft\Windows\Burn\Burn` la cual es la ruta temporal de los archivos que se copian a disco (a la hora de quemar un disco).
