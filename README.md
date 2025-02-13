@@ -1,11 +1,41 @@
 # stg-cbi12-forensic-practice
 
 1.	¿Cuál es el hash (SHA1 O SHA256) de los dispositivos analizados?
+
+![Hash DSK1](/img/1/DSK1.png)
+![Hash DSK1](/img/1/RMV1.png)
+![Hash DSK1](/img/1/RMV2.png)
+![Hash DSK1](/img/1/RMV3.png)
+
 2.	¿Qué sistema operativo tenía la computadora instalada? ¿En qué fecha y en qué hora se instaló?
+
+![OS Version](/img/2/OSVer.png)
+```
+Description: untitled
+Acquired Date: Thu Mar  5 14:41:43 2020
+System Date: Thu Mar  5 14:41:43 2020
+Acquiry Operating System: Win 201x
+Acquiry Software Version: ADI4.2.0.13
+```
+
 3.	¿Quién es el propietario del sistema?
+
+Se muestra una lista con los usuarios locales del sistema
+![OS Version](/img/3/List.png)
+De estos, el nombre del usuario principal del sistema es `informant`.
+Aunque el nombre real del usuario se puede ver en documentos oficiales de su empresa como:
+`Iaman Informant`
+
 4.	¿Cuál es el ajuste horario del equipo o formato de hora Latino o americano?
+
+`Timezone	America/Los_Angeles`
+
 5.	Enumere todas las cuentas de usuario del sistema (excepto las propias del Sistema Operativo como: Administrador, Invitado, etc.).
+
+![OS Version](/img/3/List.png)
+
 6.	¿Quién fue el último usuario en iniciar sesión en el equipo?
+
 7.	¿Cuándo fue la última fecha y hora de apagado del equipo?
 8.	¿Cuál fue la última dirección IP asignada al equipo? ¿Se asignó por DHCP o estáticamente?
 9.	¿Qué aplicaciones instaladas tenía el equipo?
